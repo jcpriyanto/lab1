@@ -34,3 +34,4 @@ In case anyone missed anything, here are links to the sections:
 - [Who am I as a person?](#who-am-i-as-a-person)
 - [Who am I as a programmer?](#who-am-i-as-a-programmer)
 
+To find out my favorite programming language, click [here.](README.md)
