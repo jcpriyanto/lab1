@@ -26,13 +26,11 @@ int main(){
     cout << "Hello World!" << endl;
 
 }
-
-
 ```
 
 Just in case anyone is wondering, I'm active on **[Instagram](https://www.instagram.com/jcpriyanto/)**! Kindly check it out here and follow!
 
 In case anyone missed anything, here are links to the sections:
-- [Who am I as a person?](#who-am-i-as-a-person-?)
-- [Who am I as a programmer?](#who-am-i-as-a-programmer-?)
+- [Who am I as a person?](#who-am-i-as-a-person?)
+- [Who am I as a programmer?](#who-am-i-as-a-programmer?)
 
