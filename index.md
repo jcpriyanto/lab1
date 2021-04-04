@@ -3,7 +3,7 @@
 
 Let me introduce myself, my name is Joseph Christopher Priyanto
 
-(../picture.jpeg)
+[](../picture.jpeg)
 
 *Who am I as a person.*
 
