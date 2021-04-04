@@ -16,9 +16,9 @@ I am just your typical guy who enjoys simple things. I don't like to overthink a
 As a programmer, I aspire to be a Software Engineer that could create new things that would benefit the people in need. In other words, people who lack access to the current technology we have, who have disabilities, etc.
 
 My goals currently as a Computer Science major are:
-- [] Graduate on time
-- [x] Get good grades
-- [] Explore and find new experience as a programmer
+[ ] Graduate on time
+[x] Get good grades
+[ ] Explore and find new experience as a programmer
 
 We all know that the simplest program that every programmer wrote was the *Hello World* program. Here's a reminder of what the code looked like:
 
