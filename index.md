@@ -1,5 +1,10 @@
 # Joseph Christopher Priyanto's User Page
 
+
+Let me introduce myself, my name is Joseph Christopher Priyanto
+
+../picture.jpeg
+
 *Who am I as a person.*
 
 I am just your typical guy who enjoys simple things. I don't like to overthink and I would dispose everything that is not important. I can set my priorities straight, and this is why I tend to complete all my task. My favorite quote comes from a popular animated movie:
