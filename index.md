@@ -15,6 +15,11 @@ I am just your typical guy who enjoys simple things. I don't like to overthink a
 
 As a programmer, I aspire to be a Software Engineer that could create new things that would benefit the people in need. In other words, people who lack access to the current technology we have, who have disabilities, etc.
 
+My goals currently as a Computer Science major are:
+- [] Graduate on time
+- [x] Get good grades
+- [] Explore and find new experience as a programmer
+
 We all know that the simplest program that every programmer wrote was the *Hello World* program. Here's a reminder of what the code looked like:
 
 ```
@@ -27,11 +32,17 @@ int main(){
 
 }
 ```
+To find out my favorite programming language, click [here.](README.md)
 
 Just in case anyone is wondering, I'm active on **[Instagram](https://www.instagram.com/jcpriyanto/)**! Kindly check it out here and follow!
 
-In case anyone missed anything, here are links to the sections:
-- [Who am I as a person?](#who-am-i-as-a-person)
-- [Who am I as a programmer?](#who-am-i-as-a-programmer)
+And if anyone is wondering, here are my classes for this quarter:
+- CSE 101
+- CSE 110
+- CSE 130
+- EDS 124BR
 
-To find out my favorite programming language, click [here.](README.md)
+In case anyone missed anything, here are links to the sections:
+1. [Top Page](#joseph-christopher-priyantos-user-page)
+2. [Who am I as a person?](#who-am-i-as-a-person)
+3. [Who am I as a programmer?](#who-am-i-as-a-programmer)
